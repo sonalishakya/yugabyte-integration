@@ -1,5 +1,7 @@
-package com.ondc.yugabyte_integration;
+package com.ondc.yugabyte_integration.Controller;
 
+import com.ondc.yugabyte_integration.Entity.Item;
+import com.ondc.yugabyte_integration.Service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

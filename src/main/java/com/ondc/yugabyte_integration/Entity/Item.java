@@ -1,4 +1,4 @@
-package com.ondc.yugabyte_integration;
+package com.ondc.yugabyte_integration.Entity;
 
 import jakarta.persistence.*;
 
